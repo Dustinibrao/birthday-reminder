@@ -6,7 +6,6 @@ Shows you whos birthday it is on current day, and allows you to clear it.
 
 ```
 npm install
-cd setup
 npm start
 ```
 
